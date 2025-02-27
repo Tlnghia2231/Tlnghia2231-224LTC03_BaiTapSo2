@@ -6,11 +6,11 @@
         public string Author { get; set; }
         public string Language { get; set; }
 
-        public Book(string title, string author, string language)
+        public Book(string title_231, string author_231, string language_231)
         {
-            Title = title;
-            Author = author;
-            Language = language;
+            Title = title_231;
+            Author = author_231;
+            Language = language_231;
         }
 
         public void ShowInfo()
@@ -22,7 +22,7 @@
     {
         static void Main(string[] args)
         {
-            Book[] books = new Book[]
+            Book[] books_231 = new Book[]
             {
                 new Book("The Lord of the Rings", "J. R. R. Tolkien", "English"),
                 new Book("War and Peace", "Leo Tolstoy", "Russian"),
@@ -31,7 +31,7 @@
                 new Book("Crime and Punishment", "Fyodor Dostoevsky", "Russian")
             };
             Console.WriteLine("Danh sach cac quyen sach noi tieng tren the gioi:");
-            foreach (Book book in books)
+            foreach (Book book in books_231)
             {
                 book.ShowInfo();
             }
