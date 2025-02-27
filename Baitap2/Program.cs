@@ -9,16 +9,16 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Danh sach cac giong cho hien co trong quay");
-            foreach (DogBreed tmp in Enum.GetValues(typeof(DogBreed)))
+            foreach (DogBreed tmp_231 in Enum.GetValues(typeof(DogBreed)))
             {
-                Console.WriteLine(((int)tmp + 1) + "." + tmp);
+                Console.WriteLine(((int)tmp_231 + 1) + "." + tmp_231);
             }
             Console.Write("\nNhap so ma giong cho ban quan tam : ");
-            if (int.TryParse(Console.ReadLine(), out int userChoice))
+            if (int.TryParse(Console.ReadLine(), out int userChoice_231))
             {
-                if (Enum.IsDefined(typeof(DogBreed), userChoice - 1))
+                if (Enum.IsDefined(typeof(DogBreed), userChoice_231 - 1))
                 {
-                    Console.WriteLine("Ban dang tim hieu ve : " + (DogBreed)(userChoice - 1));
+                    Console.WriteLine("Ban dang tim hieu ve : " + (DogBreed)(userChoice_231 - 1));
                 }
                 else
                 {
