@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap2\Baitap2\bin\Debug\net8.0\Baitap2.exe
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap2\Baitap2\bin\Debug\net8.0\Baitap2.deps.json
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap2\Baitap2\bin\Debug\net8.0\Baitap2.runtimeconfig.json
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap2\Baitap2\bin\Debug\net8.0\Baitap2.dll
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap2\Baitap2\bin\Debug\net8.0\Baitap2.pdb
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap2\Baitap2\obj\Debug\net8.0\Baitap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap2\Baitap2\obj\Debug\net8.0\Baitap2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap2\Baitap2\obj\Debug\net8.0\Baitap2.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap2\Baitap2\obj\Debug\net8.0\Baitap2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap2\Baitap2\obj\Debug\net8.0\Baitap2.dll
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap2\Baitap2\obj\Debug\net8.0\refint\Baitap2.dll
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap2\Baitap2\obj\Debug\net8.0\Baitap2.pdb
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap2\Baitap2\obj\Debug\net8.0\Baitap2.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap2\Baitap2\obj\Debug\net8.0\ref\Baitap2.dll
