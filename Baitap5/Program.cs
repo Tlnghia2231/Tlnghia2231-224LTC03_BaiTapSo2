@@ -12,11 +12,11 @@
         public int Y { get; set; }
         public PointColor Color { get; set; }
 
-        public Point(int x, int y, PointColor color)
+        public Point(int x_231, int y_231, PointColor color_231)
         {
-            X = x;
-            Y = y;
-            Color = color;
+            X = x_231;
+            Y = y_231;
+            Color = color_231;
         }
 
         public void ShowInfo()
@@ -48,13 +48,13 @@
     {
         static void Main(string[] args)
         {
-            Point point1 = new Point(2, 3, PointColor.LightBlue);
-            Point point2 = new Point(5, 7, PointColor.Gold);
+            Point point1_231 = new Point(2, 3, PointColor.LightBlue);
+            Point point2_231 = new Point(5, 7, PointColor.Gold);
             Console.WriteLine("Danh sach cac diem:");
-            point1.ShowInfo();
-            point2.ShowInfo();
+            point1_231.ShowInfo();
+            point2_231.ShowInfo();
 
-            Rectangle rectangle = new Rectangle(point1, point2);
+            Rectangle rectangle = new Rectangle(point1_231, point2_231);
 
             Console.WriteLine("\n");
             Console.WriteLine("Thonh tin hinh chu nhat:");
