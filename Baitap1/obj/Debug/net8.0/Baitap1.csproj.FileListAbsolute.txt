@@ -12,3 +12,4 @@ C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap1\Baitap1\obj\Debug\net8.0\refi
 C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap1\Baitap1\obj\Debug\net8.0\Baitap1.pdb
 C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap1\Baitap1\obj\Debug\net8.0\Baitap1.genruntimeconfig.cache
 C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap1\Baitap1\obj\Debug\net8.0\ref\Baitap1.dll
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap1\Baitap1\obj\Debug\net8.0\Baitap1.sourcelink.json
