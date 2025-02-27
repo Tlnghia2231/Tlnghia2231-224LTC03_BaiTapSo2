@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap3\Baitap3\bin\Debug\net8.0\Baitap3.exe
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap3\Baitap3\bin\Debug\net8.0\Baitap3.deps.json
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap3\Baitap3\bin\Debug\net8.0\Baitap3.runtimeconfig.json
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap3\Baitap3\bin\Debug\net8.0\Baitap3.dll
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap3\Baitap3\bin\Debug\net8.0\Baitap3.pdb
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap3\Baitap3\obj\Debug\net8.0\Baitap3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap3\Baitap3\obj\Debug\net8.0\Baitap3.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap3\Baitap3\obj\Debug\net8.0\Baitap3.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap3\Baitap3\obj\Debug\net8.0\Baitap3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap3\Baitap3\obj\Debug\net8.0\Baitap3.sourcelink.json
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap3\Baitap3\obj\Debug\net8.0\Baitap3.dll
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap3\Baitap3\obj\Debug\net8.0\refint\Baitap3.dll
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap3\Baitap3\obj\Debug\net8.0\Baitap3.pdb
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap3\Baitap3\obj\Debug\net8.0\Baitap3.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\LTC#\Chuong2\Bt1\Baitap3\Baitap3\obj\Debug\net8.0\ref\Baitap3.dll
